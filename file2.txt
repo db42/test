@@ -1,1 +1,2 @@
 file 2 master create
+master 2 commit
